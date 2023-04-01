@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+
+    <string name="product">Product</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="add">add</string>
+    <string name="warehouse_manger">warehouse manger</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="location">Location</string>
+    <string name="product_type">Product type</string>
+    <string name="code_warehouse">Code warehouse</string>
+    <string name="login">Login</string>
+    <string name="login_to_continue">Login To Continue</string>
+
+</resources>

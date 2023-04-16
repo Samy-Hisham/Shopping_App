@@ -15,5 +15,6 @@
     <string name="code_warehouse">Code warehouse</string>
     <string name="login">Login</string>
     <string name="login_to_continue">Login To Continue</string>
+    <string name="required">required</string>
 
 </resources>
